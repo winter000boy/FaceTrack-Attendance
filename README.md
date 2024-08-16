@@ -1,10 +1,10 @@
 # FaceTrack-Attendance
 
-#Face Recognition Attendance System
-##Project Overview
-###This project implements a face recognition-based attendance system using AI and machine learning. The system leverages the college's camera to capture images of students, identifies their faces, and marks their attendance accordingly. Additionally, it sends a daily attendance report to the students via email.
+<h1>Face Recognition Attendance System </h1>
+<h2>Project Overview</h2>
+<h3>This project implements a face recognition-based attendance system using AI and machine learning. The system leverages the college's camera to capture images of students, identifies their faces, and marks their attendance accordingly. Additionally, it sends a daily attendance report to the students via email.</h3>
 
-#Features
+<h1>Features</h1>
 <ol>
   <li>Face Recognition: Utilizes AI and ML algorithms to identify and recognize students' faces.</li>
   <li>Automated Attendance Marking: Automatically marks attendance for recognized students.</li>
@@ -12,7 +12,7 @@
   <li>User Interface: Provides a user-friendly interface for administrators to manage and monitor attendance records.</li>
 </ol>
 
-#Technologies Used
+<h1>Technologies Used</h1>
 <ul>
   <li>Programming Language: Python</li>
   <li>Libraries: OpenCV, dlib, face_recognition, NumPy, pandas</li>
@@ -22,7 +22,7 @@
 </ul>
 
 
-#MIT License
+<h1>MIT License</h1>
 
 Copyright (c) 2024 [Your Name]
 
